@@ -16,7 +16,7 @@ Its primary purpose is to provide accessible content for machine learning applic
 
 - 15,000 audio loops (approximately 55 hours)
 - 16-bit WAV format
-- Tempo range: 130-220 BPM
+- Tempo range: 110-180 BPM
 - Paired label data (WAV + JSON)
 - Variational drum kit and patterns
 - Subgenre styles (drill, trapsoul, cloud rap, emo rap)
