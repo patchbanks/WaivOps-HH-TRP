@@ -65,4 +65,6 @@ url = {https://doi.org/10.5281/zenodo.15734094},
 ```
 ## Additional Info
 
+Time signature data has been added to the standard JSON file format.
+
 For any questions or feedback please email info@patchbanks.com.
